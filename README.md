@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harshii04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshii04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshui" height="30" width="40" /></a>
-<a href="https://medium.com/@harsh_youx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harsh_youx" height="30" width="40" /></a>
+<a href="https://twitter.com/harshii04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshii04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshui" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshui" height="30" width="40" /></a>
+<a href="https://medium.com/@harsh_youx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harsh_youx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
